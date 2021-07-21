@@ -262,7 +262,7 @@ header .navigation li a{
 }
 
 .testimonial{
-    background: url(../img/yankari.jpeg);
+    background: url(../yankari.jpeg);
     background-size: cover;
 }
 
@@ -345,7 +345,7 @@ header .navigation li a{
 }
 
 .contact{
-    background: url(../img/ONIRU-768x575.jpeg);
+    background: url(../ONIRU-768x575.jpeg);
     background-size: cover;
     position: relative;
 }
